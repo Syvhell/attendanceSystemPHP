@@ -1,0 +1,17 @@
+{
+    "name": "looter-zye/attendance",
+    "autoload": {
+        "psr-4": {
+            "LooterZye\\Attendance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syvhell Abad Umila",
+            "email": "syvhellabadumila@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^5.1"
+    }
+}

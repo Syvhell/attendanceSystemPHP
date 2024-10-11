@@ -1,0 +1,16 @@
+QR Code Set Up (PHP)
+
+download php
+- set to path in the env. variable
+download composer
+- set to path in the env. vairiable
+
+IF new set up
+-open the old file of composer.json delete all but retain the {}
+- delete the composer.lock file
+
+Open VS code terminal
+- run this code 
+"composer require android/qr-code"
+
+NOTE: if successful download there should be a composer.lock and composer.json will not be empty any more.
